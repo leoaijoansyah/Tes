@@ -9,3 +9,11 @@ Adalah pendeklarasian tipe data yang akan dikembalikan oleh function. Ini adalah
 3. Null coalescing operator
 
 Adalah operator yang digunakan untuk mengecek suatu variable apakah terdeklarasi atau tidak. Operator sebenarnya pengembangan dari function isset(). Rumusnya adalah seperti ini variable ?? variable : 'variable tidak ada'
+
+4. Spaceship operator
+
+Adalah perbandingan 2 data/expressions, yang akan mengembalikan nilai -1 (less than/lebih kecil dari), 0 (equal/sama), 1 (greater than/lebih besar dari).
+
+5. Constant arrays using define()
+
+Jika pada versi sebelumnya, constant hanya dapat menyimpan single data, pada PHP 7 kita bisa membuat constant variable sebagai array.
