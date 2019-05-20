@@ -1,4 +1,5 @@
 FITUR 1
+
 1. Scalar type declarations
 
 Adalah pendeklarasian tipe data yang akan dimasukan ke dalam parameter function. Tipe data tersebut meliputi string, int, float, bool, class, interface, array dan callable. Scalar type declarations ditempatkan di belakang paramater function, seperti ini functionName(int $nilai)
